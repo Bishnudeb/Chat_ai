@@ -1,0 +1,106 @@
+{
+
+    "Hallo": [
+        "Hallo, how can I help you?",
+        "Hallo, how can I assist you today?",
+        "Hallo, nice to meet you!",
+        "Hallo! How's your day going?",
+        "Hey! Nice to see you!"
+    ],
+
+    "Hello": [
+        "Hello! How can I help?",
+        "Hey there, what do you need?",
+        "Hi! How's your day going?",
+        "Hello! What can I do for you?",
+        "Hey, nice to see you!"
+    ],
+
+    "Goodbye": [
+        "Goodbye! Have a great day!",
+        "See you later!",
+        "Bye! Take care!",
+        "Farewell, my friend!",
+        "Goodbye! Hope to see you soon."
+    ],
+
+    "How are you": [
+        "I'm good, thanks for asking! How about you?",
+        "I'm doing well! How are you?",
+        "I'm just a bot, but I'm feeling great! How about you?",
+        "I'm fine, and you?"
+    ],
+
+    "What is your name": [
+        "I'm your AI assistant!",
+        "You can call me ChatBot!",
+        "I don’t have a name, but you can give me one!",
+        "I'm just an AI. What would you like to call me?"
+    ],
+
+    "What can you do": [
+        "I can chat with you, answer questions, and help with coding!",
+        "I can assist you with programming, general knowledge, and more.",
+        "I'm here to help you with anything I can!",
+        "I can provide information, generate text, and more!"
+    ],
+
+    "Who created you": [
+        "I was created by OpenAI!",
+        "I'm an AI model trained by OpenAI.",
+        "A team of developers built me to assist people like you!"
+    ],
+
+    "Tell me a joke": [
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "Why don’t skeletons fight each other? They don’t have the guts.",
+        "Why couldn’t the bicycle stand up by itself? It was two-tired!"
+    ],
+
+    "Tell me a fun fact": [
+        "Did you know honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly good!",
+        "A group of flamingos is called a 'flamboyance'!",
+        "Bananas are berries, but strawberries aren’t!"
+    ],
+
+    "What is the meaning of life": [
+        "That's a deep question! Many say it's about happiness, love, and knowledge.",
+        "42. According to The Hitchhiker’s Guide to the Galaxy!",
+        "The meaning of life is what you make of it!"
+    ],
+
+    "What time is it": [
+        "I can't check the time, but you can look at your device's clock!",
+        "Time is just a human construct, but it's probably time to do something productive!"
+    ],
+
+    "Do you like me": [
+        "Of course! You're awesome!",
+        "I like talking to you!",
+        "Yes! You're fun to chat with!"
+    ],
+
+    "Can you help me": [
+        "Of course! What do you need help with?",
+        "I'll do my best! What do you need?",
+        "Sure! Tell me how I can assist."
+    ],
+
+    "Are you real": [
+        "I'm just a virtual assistant, but I'm here to chat!",
+        "I'm real in the digital world!",
+        "I exist in code, but my responses are real!"
+    ],
+
+    "How old are you": [
+        "I exist outside of time, but I was trained in 2024!",
+        "I'm as old as the internet, but as young as the latest update!",
+        "I don't age, but thanks for asking!"
+    ],
+
+    "Where are you from": [
+        "I'm from the digital world!",
+        "I was created in the cloud!",
+        "I live in your device, wherever that is!"
+    ]
+}
